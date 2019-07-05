@@ -14,3 +14,7 @@
 
 ![](./Ruby.svg)
 
+## SageMath
+
+![](./SageMath.svg)
+
