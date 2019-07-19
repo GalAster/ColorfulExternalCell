@@ -1,8 +1,7 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+<svg id="logos"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
     <defs>
-        <style>
-            .cls-1{fill:#3131ff;opacity:0.99;isolation:isolate;}.cls-2,.cls-3,.cls-4,.cls-5{fill:none;stroke:#3131ff;stroke-miterlimit:3.1;}.cls-2{stroke-width:20.58px;}.cls-3{stroke-width:15.43px;}.cls-4{stroke-width:10.29px;}.cls-5{stroke-width:5.14px;}
-        </style>
+        <style>.cls-1{fill:#3131ff;opacity:0.99;isolation:isolate;}.cls-2,.cls-3,.cls-4,.cls-5{fill:none;stroke:#3131ff;stroke-miterlimit:3.1;}.cls-2{stroke-width:20.58px;}.cls-3{stroke-width:15.43px;}.cls-4{stroke-width:10.29px;}.cls-5{stroke-width:5.14px;}</style>
     </defs>
     <title>SageMath</title>
     <path id="path3438" class="cls-1" d="M244.23,240.47a22.72,22.72,0,0,1-45.43,0h0a22.72,22.72,0,0,1,45.43,0Z"/>

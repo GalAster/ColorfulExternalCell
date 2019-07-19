@@ -1,21 +1,18 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     viewBox="0 0 400 400">
+<svg id="logos"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 400">
     <defs>
         <style>.cls-1{fill:url(#未命名的渐变_18);}.cls-2{fill:url(#未命名的渐变_2);}</style>
-        <linearGradient id="未命名的渐变_18" x1="179.21" y1="497.41" x2="377.43" y2="298.53"
-                        gradientTransform="matrix(1, 0, 0, -1, -142.58, 533.59)" gradientUnits="userSpaceOnUse">
+        <linearGradient id="未命名的渐变_18" x1="179.21" y1="917.41" x2="377.43" y2="718.53" gradientTransform="matrix(1, 0, 0, -1, -142.58, 953.59)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#387eb8"/>
             <stop offset="1" stop-color="#366994"/>
         </linearGradient>
-        <linearGradient id="未命名的渐变_2" x1="302.14" y1="370.35" x2="515" y2="166.41"
-                        gradientTransform="matrix(1, 0, 0, -1, -142.58, 533.59)" gradientUnits="userSpaceOnUse">
+        <linearGradient id="未命名的渐变_2" x1="302.14" y1="790.35" x2="515" y2="586.41" gradientTransform="matrix(1, 0, 0, -1, -142.58, 953.59)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ffe052"/>
             <stop offset="1" stop-color="#ffc331"/>
         </linearGradient>
     </defs>
     <title>Python</title>
-    <path class="cls-1"
-          d="M198.14,0C96.66,0,103,44.25,103,44.25L103.11,90H200v14H64.56s-65-7.41-65,95.62S56.3,299,56.3,299H91V251.12S89.17,194,146.91,194H242s54,.88,54-52.46V53.35S304.19,0,198.14,0Zm-53,30.86a17.53,17.53,0,1,1-17.44,17.52A17.46,17.46,0,0,1,145.13,30.84Z"/>
-    <path class="cls-2"
-          d="M201.86,400C303.34,400,297,355.76,297,355.76L296.89,310H200V296H335.44s65,7.41,65-95.62S343.7,101,343.7,101H309v47.88S310.83,206,253.09,206H158s-54-.88-54,52.46v88.19S95.81,400,201.86,400Zm53-30.86a17.53,17.53,0,1,1,17.44-17.52A17.46,17.46,0,0,1,254.87,369.16Z"/>
+    <path class="cls-1" d="M198.14,0C96.66,0,103,44.25,103,44.25L103.11,90H200v14H64.56s-65-7.41-65,95.62S56.3,299,56.3,299H91V251.12S89.17,194,146.91,194H242s54,.88,54-52.46V53.35S304.19,0,198.14,0Zm-53,30.86a17.53,17.53,0,1,1-17.44,17.52A17.46,17.46,0,0,1,145.13,30.84Z"/>
+    <path class="cls-2" d="M201.86,400C303.34,400,297,355.76,297,355.76L296.89,310H200V296H335.44s65,7.41,65-95.62S343.7,101,343.7,101H309v47.88S310.83,206,253.09,206H158s-54-.88-54,52.46v88.19S95.81,400,201.86,400Zm53-30.86a17.53,17.53,0,1,1,17.44-17.52A17.46,17.46,0,0,1,254.87,369.16Z"/>
 </svg>
